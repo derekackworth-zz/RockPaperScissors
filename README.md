@@ -1,5 +1,5 @@
 # RockPaperScissors
-A WPF application that allows the user to play a multiplayer king of the hill style rock paper scissors game over a LAN network.
+WPF application that allows the user to play a multiplayer king of the hill style rock paper scissors game over a LAN network.
 
 ## Usage
 
